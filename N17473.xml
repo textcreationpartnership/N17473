@@ -122,14 +122,14 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:022609_0000_0FB9B4BF6135F7E8"/>
-            <pb facs="tcp:022609_0001_0FB9B4C0F75B72A0"/>
+            <pb facs="unknown:022609_0000_0FB9B4BF6135F7E8"/>
+            <pb facs="unknown:022609_0001_0FB9B4C0F75B72A0"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:022609_0002_0FB9B4C36494D288"/>
+            <pb facs="unknown:022609_0002_0FB9B4C36494D288"/>
             <p>APHORISMS ON MAN. TRANSLATED FROM THE ORIGINAL MANUSCRIPT OF THE REV. JOHN CASPAR LAVATER, CITIZEN OF ZURIC.</p>
             <q>
                <p>— è coelo deſcendit <gap reason="foreign">
@@ -142,7 +142,7 @@
             <p>LONDON: PRINTED. NEW-YORK: RE-PRINTED BY T. AND J. SWORDS, FOR BERRY AND ROGERS, HANOVER-SQUARE. M,DCC,XC.</p>
          </div>
          <div type="letter">
-            <pb facs="tcp:022609_0003_0FB9B4C5FB10FCA8"/>
+            <pb facs="unknown:022609_0003_0FB9B4C5FB10FCA8"/>
             <head>TO HENRY FUSELI, <hi>A. M.</hi>
             </head>
             <p>TAKE, dear obſerver of men, from the hand of your unbiaſſed friend, this teſtimony of eſteem for your genius.</p>
@@ -160,7 +160,7 @@
             </closer>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:022609_0004_0FB9B4C7C006A720"/>
+            <pb facs="unknown:022609_0004_0FB9B4C7C006A720"/>
             <head>ADVERTISEMENT.</head>
             <p>IN the following collection of Aphoriſms the reader is not to expect a ſet of maxims compiled from the author's own, or by him ſelected from the works of others; but an original, meditated and compoſed in the ſeries here offered during the autumn of <hi>1787,</hi> and trarſmitted in the author's own manuſcript to the publiſher.</p>
             <p>Notwithſtanding the rapidity that attended this work, (and the world know that all this author's works are affuſions,) it will be found to contain what gives their value to maxims—verdicts of wiſdom on the reports of experience. If ſome are truiſms, let it be conſidered that Sclomon and Hippocrates wrote truiſms: if ſome are not new, they are recommended by an air of novelty: if whim ſhould appear to have dictated others, it was the whim of humanity; and what may be deamed raſh will be found to flow from the fervour of indignant honeſly, or the exultations of benevolence. Acute and perſpicuous, they are not infected by the cant of ſects, or circumſcribed by local notions, but general as the paſſions and feelings of the race.</p>
@@ -169,7 +169,7 @@
       </front>
       <body>
          <div type="aphorisms">
-            <pb facs="tcp:022609_0005_0FB9B4CB95214570"/>
+            <pb facs="unknown:022609_0005_0FB9B4CB95214570"/>
             <head>APHORISMS.</head>
             <div n="1" type="aphorism">
                <head>1.</head>
@@ -192,7 +192,7 @@
                <p>As the medium of ſelf-enjoyment, as the objects of love—ſo the value, the character, and manner of exiſtence in man;—as his <hi>thou,</hi> ſo his <hi>I.</hi>—Penetrate the one, and you know the other.</p>
             </div>
             <div n="6" type="aphorism">
-               <pb n="6" facs="tcp:022609_0006_0FB9B4CDAE13CE90"/>
+               <pb n="6" facs="unknown:022609_0006_0FB9B4CDAE13CE90"/>
                <head>6.</head>
                <p>The more complex yet uniſorm, the more varied yet harmonious, the medium of ſelf-enjoyment;—the more exiſtent and real, the more vigorous and digniſied, the more bleſt and bleſſing is man.</p>
             </div>
@@ -216,7 +216,7 @@
                <head>11.</head>
                <p>The leſs you can enjoy, the poorer, the ſcantier yourſelf—the more you can enjoy, the richer, the more vigorous.</p>
                <p>
-                  <pb n="7" facs="tcp:022609_0007_0FB9B4D06FE736D0"/>
+                  <pb n="7" facs="unknown:022609_0007_0FB9B4D06FE736D0"/>
 You enjoy with wiſdom or with folly, as the gratification of your appetites capacitates or unnerves your powers.</p>
             </div>
             <div n="12" type="aphorism">
@@ -231,7 +231,7 @@ You enjoy with wiſdom or with folly, as the gratification of your appetites cap
                <head>14.</head>
                <p>What is a man's intereſt? what conſti<g ref="char:EOLhyphen"/>tutes his God, the ultimate of his wiſhes, his end of exiſtence? Either that which on every occaſion he communicates with the moſt unreſtrained cordiality, or hides from every profane eye and ear with myſterious awe; to which he makes every other thing a mere appendix;—the vortex, the centre, the comparative point from which he ſets out, on which he fixes, to which he irreſiſti<g ref="char:EOLhyphen"/>bly returns;—that, at the laſt of which you may ſafely think him inconſolable;—that which he reſcues from the gripe of danger with equal anxiety and boldneſs.</p>
                <p>
-                  <pb n="8" facs="tcp:022609_0008_0FB9B4D1625692B8"/>
+                  <pb n="8" facs="unknown:022609_0008_0FB9B4D1625692B8"/>
 The ſtory of the painter and the prince is well known: to get at the beſt piece in the artiſt's collection, the prince ordered fire to be cried in the neighbourhood—at the firſt noiſe the artiſt abruptly left the prince, and ſeized his darling—his Titian. The alarm proved a falſe one, but the object of purchaſe was fixed. The application is eaſy: of thouſands it may be decided what loſs, what gain, would affect them moſt. This the ſage of Nazareth meant when he ſaid, <hi>Where thy treaſure is, there will thy heart be alſo.</hi>—The object of your love is your God.</p>
             </div>
             <div n="15" type="aphorism">
@@ -245,7 +245,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="17" type="aphorism">
                <head>17.</head>
                <p>Where you find true internal life, con<g ref="char:EOLhyphen"/>ſiſtence of character, principles of real inde<g ref="char:EOLhyphen"/>pendence,
-<pb n="9" facs="tcp:022609_0009_0FB9B4D5F3CD0838"/>ſympathy for univerſal harmony—where inexorable reſolution againſt all that threatens the real unity of exiſtence and bands of order—where you find theſe, there offer the homage due humanity.</p>
+<pb n="9" facs="unknown:022609_0009_0FB9B4D5F3CD0838"/>ſympathy for univerſal harmony—where inexorable reſolution againſt all that threatens the real unity of exiſtence and bands of order—where you find theſe, there offer the homage due humanity.</p>
             </div>
             <div n="18" type="aphorism">
                <head>18.</head>
@@ -259,7 +259,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <head>20.</head>
                <p>Diſtinguiſh with exactneſs, in thyſelf and others, between <hi>wiſhes</hi> and <hi>will,</hi> in the ſtricteſt ſenſe.</p>
                <p>Who has many wiſhes has generally but little will. Who has energy of will has few diverging wiſhes. Whoſe will is bent with energy on <hi>one, muſt</hi> renounce the wiſhes for <hi>many</hi> things. Who cannot do this is not ſtamped with the majeſty of human nature.
-<pb n="10" facs="tcp:022609_0010_0FB9B4D7957DCCF0"/>The energy of choice, the uniſon of various powers for one, is alone <hi>will,</hi> born under the agonies of ſelf-denial and renounced deſires.</p>
+<pb n="10" facs="unknown:022609_0010_0FB9B4D7957DCCF0"/>The energy of choice, the uniſon of various powers for one, is alone <hi>will,</hi> born under the agonies of ſelf-denial and renounced deſires.</p>
             </div>
             <div n="21" type="aphorism">
                <head>21.</head>
@@ -279,7 +279,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>The acquiſition of <hi>will,</hi> for one thing ex<g ref="char:EOLhyphen"/>cluſively, preſuppoſes entire acquaintance with many others. Search into the progreſs of excluſive <hi>will,</hi> and you may learn whether it was formed by accident, or judgment, or both.</p>
             </div>
             <div n="25" type="aphorism">
-               <pb n="11" facs="tcp:022609_0011_0FB9B4D99BBD3A10"/>
+               <pb n="11" facs="unknown:022609_0011_0FB9B4D99BBD3A10"/>
                <head>25.</head>
                <p>
                   <hi>Wiſhes</hi> run over in loquacious impotence, <hi>will</hi> preſſes on with laconic energy.</p>
@@ -303,7 +303,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who forces himſelf on others, is to him<g ref="char:EOLhyphen"/>ſelf a load. Impetuous curioſity is empty and inconſtant. Prying intruſion may be ſuſpected of whatever is little.</p>
             </div>
             <div n="30" type="aphorism">
-               <pb n="12" facs="tcp:022609_0012_0FB9B4DFC224C848"/>
+               <pb n="12" facs="unknown:022609_0012_0FB9B4DFC224C848"/>
                <head>30.</head>
                <p>The ſhameleſs flatterer is a ſhameleſs knave.</p>
             </div>
@@ -336,7 +336,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>The ſmiles that encourage ſeverity of judgment hide malice and inſincerity.</p>
             </div>
             <div n="38" type="aphorism">
-               <pb n="13" facs="tcp:022609_0013_0FB9B4E232C05710"/>
+               <pb n="13" facs="unknown:022609_0013_0FB9B4E232C05710"/>
                <head>38.</head>
                <p>He, who boldly interpoſes between a mercileſs cenſor and his prey, is a man of vigour: and he who, mildly wiſe, without wounding, convinces him of his error, com<g ref="char:EOLhyphen"/>mands our veneration.</p>
             </div>
@@ -359,7 +359,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="43" type="aphorism">
                <head>43.</head>
                <p>As the preſent character of a man, ſo his paſt, ſo his future. Who recollects diſtinctly
-<pb n="14" facs="tcp:022609_0014_0FB9B4E364C69CA0"/>his paſt adventures, knows his deſtiny to come.</p>
+<pb n="14" facs="unknown:022609_0014_0FB9B4E364C69CA0"/>his paſt adventures, knows his deſtiny to come.</p>
             </div>
             <div n="44" type="aphorism">
                <head>44.</head>
@@ -376,7 +376,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Where conſequence ceaſes, there folly, reſtleſſneſs and miſery begin. Conſequence determines your degree of reſpectability, in every diverging point, from your enemy to your God.</p>
             </div>
             <div n="47" type="aphorism">
-               <pb n="15" facs="tcp:022609_0015_0FB9B4E5B79AC978"/>
+               <pb n="15" facs="unknown:022609_0015_0FB9B4E5B79AC978"/>
                <head>47.</head>
                <p>Man has an inward ſenſe of conſequence—of all that is pertinent. This ſenſe is the eſſence of humanity: this, developed and determined, characteriſes him—this, diſ<g ref="char:EOLhyphen"/>played, in his education. The more ſtrict you are in obſerving what is pertinent or heterogeneous in character, actions, works of art and literature—the wiſer, nobler, greater, the more humane yourſelf.</p>
             </div>
@@ -397,7 +397,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>The loſs of taſte for what is right is loſs of all right taſte.</p>
             </div>
             <div n="52" type="aphorism">
-               <pb n="16" facs="tcp:022609_0016_0FB9B4E7616178A0"/>
+               <pb n="16" facs="unknown:022609_0016_0FB9B4E7616178A0"/>
                <head>52.</head>
                <p>Who affects uſeleſs ſingularities has ſurely a little mind.</p>
             </div>
@@ -426,7 +426,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>The horſe-laugh indicates brutality of character.</p>
             </div>
             <div n="59" type="aphorism">
-               <pb n="17" facs="tcp:022609_0017_0FB9B4EB143A19C0"/>
+               <pb n="17" facs="unknown:022609_0017_0FB9B4EB143A19C0"/>
                <head>59.</head>
                <p>A ſneer is often the ſign of heartleſs ma<g ref="char:EOLhyphen"/>lignity.</p>
             </div>
@@ -447,7 +447,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>The moſt ſtormy ebullitions of paſſion, from blaſphemy to murder, are leſs terrific than one ſingle act of cool villany: a ſtill <hi>rabies</hi> is more dangerous than the paroxiſms of a fever.—Fear the boiſterous ſavage of paſſion leſs than the ſedately grinning villain.</p>
             </div>
             <div n="64" type="aphorism">
-               <pb n="18" facs="tcp:022609_0018_0FB9B4ED6BCEFB28"/>
+               <pb n="18" facs="unknown:022609_0018_0FB9B4ED6BCEFB28"/>
                <head>64.</head>
                <p>Who defends a thing demonſtrated bad, and, with a contemptuous ſhrug, rejects another demonſtrated good, is, by the deci<g ref="char:EOLhyphen"/>ſion of the moſt unequivocal charity, a de<g ref="char:EOLhyphen"/>cided knave.</p>
             </div>
@@ -468,7 +468,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>There ought to be a perpetual whiſper in the ear of plain honeſty—take heed not even to pronounce the name of a knave—he will make the very ſound of his name a handle of miſchief. And do you think a knave begins miſchief to leave off? Know this—whether he overcome or be foiled, he will wrangle on.</p>
             </div>
             <div n="69" type="aphorism">
-               <pb n="19" facs="tcp:022609_0019_0FB9B4F013AD1FE8"/>
+               <pb n="19" facs="unknown:022609_0019_0FB9B4F013AD1FE8"/>
                <head>69.</head>
                <p>Humility and love, whatever obſcurities may involve religious tenets, conſtitute the eſſence of true religion. The humble is formed to adore; the loving to aſſociate with eternal love.</p>
             </div>
@@ -489,7 +489,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Modeſty is ſilent when it would not be improper to ſpeak: the humble, without being called upon, never recollects to ſay any thing of himſelf.</p>
             </div>
             <div n="74" type="aphorism">
-               <pb n="20" facs="tcp:022609_0020_0FB9B4F3E2509390"/>
+               <pb n="20" facs="unknown:022609_0020_0FB9B4F3E2509390"/>
                <head>74.</head>
                <p>The oppreſſive is hard. If ten, choſen from the croud by yourſelf, call you oppreſ<g ref="char:EOLhyphen"/>ſive, it is more than probable that you have a raw, hard, indelicate ſide.</p>
             </div>
@@ -510,7 +510,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>The wrath that on conviction ſubſides into mildneſs, is the wrath of a generous mind.</p>
             </div>
             <div n="79" type="aphorism">
-               <pb n="21" facs="tcp:022609_0021_0FB9B4F7D8046830"/>
+               <pb n="21" facs="unknown:022609_0021_0FB9B4F7D8046830"/>
                <head>79.</head>
                <p>Who will ſacrifice nothing, and enjoy all, is a fool.</p>
             </div>
@@ -533,7 +533,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="84" type="aphorism">
                <head>84.</head>
                <p>You often feel yourſelf invigorated to tell, without fear, ſome bold truth to certain great characters who would never forgive being corrected in trifles. Puſhed once for my opinion by one who pretended a ſerious de<g ref="char:EOLhyphen"/>ſign of ſelf-amendment, and prefaced his re<g ref="char:EOLhyphen"/>queſt by proteſting—that nothing could of<g ref="char:EOLhyphen"/>fend him—that he would even ſubmit to be called a fiend—I replied, you may tell a man thou art a fiend, but not your noſe wants
-<pb n="22" facs="tcp:022609_0022_0FB9B4F981FBBC78"/>blowing—to him alone who can bear a thing of that kind, you may tell all.</p>
+<pb n="22" facs="unknown:022609_0022_0FB9B4F981FBBC78"/>blowing—to him alone who can bear a thing of that kind, you may tell all.</p>
             </div>
             <div n="85" type="aphorism">
                <head>85.</head>
@@ -569,7 +569,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who inſtantly does the beſt that can be done, what no other could have done, and what all muſt acknowledge to be the beſt, is a genius and a hero at once.</p>
             </div>
             <div n="93" type="aphorism">
-               <pb n="23" facs="tcp:022609_0023_0FB9B4FCDDA4B308"/>
+               <pb n="23" facs="unknown:022609_0023_0FB9B4FCDDA4B308"/>
                <head>93.</head>
                <p>The diſcovery of truth, by ſlow progreſſive meditation, is wiſdom.—Intuition of truth, not preceded by perceptible meditation, is genius.</p>
             </div>
@@ -599,7 +599,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who deſpiſes all that is deſpicable is made to be impreſſed with all that is grand.</p>
             </div>
             <div n="100" type="aphorism">
-               <pb n="24" facs="tcp:022609_0024_0FB9B50054FF4268"/>
+               <pb n="24" facs="unknown:022609_0024_0FB9B50054FF4268"/>
                <head>100.</head>
                <p>Who can pay homage to the truly deſpi<g ref="char:EOLhyphen"/>cable is truly contemptible.</p>
             </div>
@@ -626,7 +626,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="106" type="aphorism">
                <head>106.</head>
                <p>There is a negative claſs whoſe conſtant aim is deſtruction, who perpetually labour to demoliſh, to imbitter, to detract from ſome<g ref="char:EOLhyphen"/>thing
-<pb n="25" facs="tcp:022609_0025_0FB9B501635C3348"/>within us; theſe avoid if you can, but examine what they ſay; their far-fetched criticiſms will often make you attend to what elſe might have eſcaped obſervation.</p>
+<pb n="25" facs="unknown:022609_0025_0FB9B501635C3348"/>within us; theſe avoid if you can, but examine what they ſay; their far-fetched criticiſms will often make you attend to what elſe might have eſcaped obſervation.</p>
             </div>
             <div n="107" type="aphorism">
                <head>107.</head>
@@ -643,7 +643,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who can hear with compoſure, attend in ſilence, and liſten to the end—may already be conſidered as wiſe, juſt, noble: his judg<g ref="char:EOLhyphen"/>ment, of whatever comes within his ſphere, where he can hear, and hear out with com<g ref="char:EOLhyphen"/>poſure, may, till you meet with one better, ſerve for an oracle.</p>
             </div>
             <div n="110" type="aphorism">
-               <pb n="26" facs="tcp:022609_0026_0FB9B502E1F4D348"/>
+               <pb n="26" facs="unknown:022609_0026_0FB9B502E1F4D348"/>
                <head>110.</head>
                <p>Who can relate with compoſure, with preciſion, truth, clearneſs, and artleſs ſenti<g ref="char:EOLhyphen"/>ment, and relate the ſame twice equally well—him ſeek for a friend, or rather deſerve to be his friend.</p>
             </div>
@@ -672,7 +672,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who cuts is eaſily wounded. The readier you are to offend the ſooner you are offended.</p>
             </div>
             <div n="117" type="aphorism">
-               <pb n="27" facs="tcp:022609_0027_0FB9B5045B776710"/>
+               <pb n="27" facs="unknown:022609_0027_0FB9B5045B776710"/>
                <head>117.</head>
                <p>Who, inattentive to anſwers, accumulates queſtions will not be informed, and who means not to be informed aſks like a fool.</p>
             </div>
@@ -706,7 +706,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who has a daring eye tells downright truths and downright lies.</p>
             </div>
             <div n="125" type="aphorism">
-               <pb n="28" facs="tcp:022609_0028_0FB9B50B9D6B43E8"/>
+               <pb n="28" facs="unknown:022609_0028_0FB9B50B9D6B43E8"/>
                <head>125.</head>
                <p>Who ſedulouſly attends, pointedly aſks, calmly ſpeaks, coolly anſwers, and ceaſes when he has no more to ſay, is in poſſeſſion of ſome of the beſt requiſites of man.</p>
             </div>
@@ -733,7 +733,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="131" type="aphorism">
                <head>131.</head>
                <p>The ambitious ſacrifices all to what he terms honour, as the miſer all to money.
-<pb n="29" facs="tcp:022609_0029_0FB9B50D66E18978"/>Who values gold above all conſiders all elſe as trifling: who values fame above all deſpi<g ref="char:EOLhyphen"/>ſes all but fame. The truly virtuous has an excluſive taſte for virtue. A great paſſion has no partner.</p>
+<pb n="29" facs="unknown:022609_0029_0FB9B50D66E18978"/>Who values gold above all conſiders all elſe as trifling: who values fame above all deſpi<g ref="char:EOLhyphen"/>ſes all but fame. The truly virtuous has an excluſive taſte for virtue. A great paſſion has no partner.</p>
             </div>
             <div n="132" type="aphorism">
                <head>132.</head>
@@ -758,7 +758,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="137" type="aphorism">
                <head>137.</head>
                <p>Who not only renders ſpontaneous juſtice to his rival, but with cordial praiſe enume<g ref="char:EOLhyphen"/>rates his merits more clearly than his com<g ref="char:EOLhyphen"/>petitor could himſelf have done, is not only
-<pb n="30" facs="tcp:022609_0030_0FB9B50FA7E91E08"/>one of the moſt perſpicacious, but one of the grandeſt of mortals—and has, ſuperla<g ref="char:EOLhyphen"/>tively, pronounced his own panegyric.</p>
+<pb n="30" facs="unknown:022609_0030_0FB9B50FA7E91E08"/>one of the moſt perſpicacious, but one of the grandeſt of mortals—and has, ſuperla<g ref="char:EOLhyphen"/>tively, pronounced his own panegyric.</p>
             </div>
             <div n="138" type="aphorism">
                <head>138.</head>
@@ -782,7 +782,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He, who confident of being right, can check his anger at the effrontery of unjuſt claims, calmly produce his vouchers, and leave them to ſpeak for themſelves, is more than a juſt man.</p>
             </div>
             <div n="143" type="aphorism">
-               <pb n="31" facs="tcp:022609_0031_0FB9B5117743F300"/>
+               <pb n="31" facs="unknown:022609_0031_0FB9B5117743F300"/>
                <head>143.</head>
                <p>Who, in the midſt of juſt provocation to anger, inſtantly finds the fit word which ſet<g ref="char:EOLhyphen"/>tles all around him in ſilence, is more than wiſe or juſt: he is, were he a beggar, of more than royal blood—he is of celeſtial deſcent.</p>
             </div>
@@ -799,7 +799,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who always loſes the more he is known muſt undoubtedly be very poor.</p>
             </div>
             <div n="147" type="aphorism">
-               <pb n="32" facs="tcp:022609_0032_0FB9B516E7A23998"/>
+               <pb n="32" facs="unknown:022609_0032_0FB9B516E7A23998"/>
                <head>147.</head>
                <p>Who, in a long courſe of familiarity, nei<g ref="char:EOLhyphen"/>ther gains nor loſes, has a very mean, vulgar, character.</p>
             </div>
@@ -832,7 +832,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who is thoroughly bad?—he that has no ſenſe for what is thoroughly good.</p>
             </div>
             <div n="155" type="aphorism">
-               <pb n="33" facs="tcp:022609_0033_0FB9B517DCCD94B8"/>
+               <pb n="33" facs="unknown:022609_0033_0FB9B517DCCD94B8"/>
                <head>155.</head>
                <p>That moſt uncommon of all mortals, him who can, whilſt advancing to fame, enter into the detail of all the wants of an unknown good character, and who would loſe the whole enjoyment of it if he knew he had been obſerved—him I ſhould wiſh to know, and to addreſs him—Saint of ſaints, pray for us!</p>
             </div>
@@ -855,7 +855,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="160" type="aphorism">
                <head>160.</head>
                <p>There are rapid moments of joy and of grief; moments which every one has, at leaſt
-<pb n="34" facs="tcp:022609_0034_0FB9B51A5DE4FFF8"/>once in his life, that illuminate his character at once.</p>
+<pb n="34" facs="unknown:022609_0034_0FB9B51A5DE4FFF8"/>once in his life, that illuminate his character at once.</p>
             </div>
             <div n="161" type="aphorism">
                <head>161.</head>
@@ -876,7 +876,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="165" type="aphorism">
                <head>165.</head>
                <p>Examine carefully whether a man is fon<g ref="char:EOLhyphen"/>der of exceptions than of rules; as he makes uſe of exceptions he is ſagacious; as he ap<g ref="char:EOLhyphen"/>plies them againſt the rule he is wronghead<g ref="char:EOLhyphen"/>ed. I heard in one day a man who thought himſelf wiſe produce thrice, as rules, the
-<pb n="35" facs="tcp:022609_0035_0FB9B51CA5B81508"/>ſtrangeſt half-proved exceptions againſt mil<g ref="char:EOLhyphen"/>lions of demonſtrated contrary examples, and thus obtained the moſt intuitive idea of the ſophiſt's character. Of all human forms and characters none is leſs improveable, none more intolerable or oppreſſive, than the race of ſophiſts. They are intolerable againſt all nature, againſt all that is called general, de<g ref="char:EOLhyphen"/>monſtrated truth: they attempt to demoliſh the moſt ſolid and magnificent fabric with a grain of ſand picked from off its ſtones. Such knaves, whom to tolerate exceeds almoſt the bounds of human toleration, avoid like ſer<g ref="char:EOLhyphen"/>pents! If you once engage with them there is no end to wrangling. A ſneer, and the helpleſs miſery of better hearts, are their only aim and their higheſt enjoyment.</p>
+<pb n="35" facs="unknown:022609_0035_0FB9B51CA5B81508"/>ſtrangeſt half-proved exceptions againſt mil<g ref="char:EOLhyphen"/>lions of demonſtrated contrary examples, and thus obtained the moſt intuitive idea of the ſophiſt's character. Of all human forms and characters none is leſs improveable, none more intolerable or oppreſſive, than the race of ſophiſts. They are intolerable againſt all nature, againſt all that is called general, de<g ref="char:EOLhyphen"/>monſtrated truth: they attempt to demoliſh the moſt ſolid and magnificent fabric with a grain of ſand picked from off its ſtones. Such knaves, whom to tolerate exceeds almoſt the bounds of human toleration, avoid like ſer<g ref="char:EOLhyphen"/>pents! If you once engage with them there is no end to wrangling. A ſneer, and the helpleſs miſery of better hearts, are their only aim and their higheſt enjoyment.</p>
             </div>
             <div n="166" type="aphorism">
                <head>166.</head>
@@ -887,7 +887,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who, without call or office, induſtriouſly recalls the remembrance of paſt errors to con<g ref="char:EOLhyphen"/>found him who has repented of them, is a villain.</p>
             </div>
             <div n="168" type="aphorism">
-               <pb n="36" facs="tcp:022609_0036_0FB9B52057E02EC0"/>
+               <pb n="36" facs="unknown:022609_0036_0FB9B52057E02EC0"/>
                <head>168.</head>
                <p>Whenever a man undergoes a conſiderable change, in conſequence of being obſerved by others, whenever he aſſumes another gait, another language, than what he had before he thought himſelf obſerved, be adviſed to guard yourſelf againſt him.</p>
             </div>
@@ -912,7 +912,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who crawlingly receives will give ſuper<g ref="char:EOLhyphen"/>ciliouſly.</p>
             </div>
             <div n="174" type="aphorism">
-               <pb n="37" facs="tcp:022609_0037_0FB9B52568ED3410"/>
+               <pb n="37" facs="unknown:022609_0037_0FB9B52568ED3410"/>
                <head>174.</head>
                <p>Who rapidly decides without examining proofs will perſiſt obſtinately.</p>
             </div>
@@ -939,7 +939,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="180" type="aphorism">
                <head>180.</head>
                <p>Examine what, and how, and where, and when, a man praiſes or cenſures; he who
-<pb n="38" facs="tcp:022609_0038_0FB9B527F342C1C8"/>always, and every where, and, as to eſſen<g ref="char:EOLhyphen"/>tials, in an uniform manner, cenſures and blames, is a man that may be depended upon.</p>
+<pb n="38" facs="unknown:022609_0038_0FB9B527F342C1C8"/>always, and every where, and, as to eſſen<g ref="char:EOLhyphen"/>tials, in an uniform manner, cenſures and blames, is a man that may be depended upon.</p>
             </div>
             <div n="181" type="aphorism">
                <head>181.</head>
@@ -970,7 +970,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>The ſloven has no reſpect either for him<g ref="char:EOLhyphen"/>ſelf or others.</p>
             </div>
             <div n="188" type="aphorism">
-               <pb n="39" facs="tcp:022609_0039_0FB9B52924EEC5E0"/>
+               <pb n="39" facs="unknown:022609_0039_0FB9B52924EEC5E0"/>
                <head>188.</head>
                <p>Who makes too much or too little of him<g ref="char:EOLhyphen"/>ſelf has a falſe meaſure for every thing.</p>
             </div>
@@ -995,7 +995,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who ſeeks thoſe that are greater than himſelf, their greatneſs enjoys, and forgets his greateſt qualities in their greater ones, is already truly great.</p>
             </div>
             <div n="194" type="aphorism">
-               <pb n="40" facs="tcp:022609_0040_0FB9B52A9D616490"/>
+               <pb n="40" facs="unknown:022609_0040_0FB9B52A9D616490"/>
                <head>194.</head>
                <p>And truly little is he who, abſorbed in trifles, has no taſte for the great, goes in perpetual queſt of the little, and labours to impreſs in<g ref="char:EOLhyphen"/>feriors with his own conceited greatneſs.</p>
             </div>
@@ -1028,7 +1028,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who, crab-like, crawls backwards when he ſhould meet you like a friend may be ſuſ<g ref="char:EOLhyphen"/>pected of plotting and falſehood.</p>
             </div>
             <div n="202" type="aphorism">
-               <pb n="41" facs="tcp:022609_0041_0FB9B53000C9B0D0"/>
+               <pb n="41" facs="unknown:022609_0041_0FB9B53000C9B0D0"/>
                <head>202.</head>
                <p>Neither the cold nor the fervid, but cha<g ref="char:EOLhyphen"/>racters uniformly warm, are formed for friendſhip.</p>
             </div>
@@ -1057,7 +1057,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who ſeems proud wants at leaſt the look of humility.—Light without ſplendour, fire without heat, humility without meekneſs, what are they?</p>
             </div>
             <div n="209" type="aphorism">
-               <pb n="42" facs="tcp:022609_0042_0FB9B53243624988"/>
+               <pb n="42" facs="unknown:022609_0042_0FB9B53243624988"/>
                <head>209.</head>
                <p>None love without being loved; and none beloved is without lovelineſs.</p>
             </div>
@@ -1086,7 +1086,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>The friend of order has made half his way to virtue.</p>
             </div>
             <div n="216" type="aphorism">
-               <pb n="43" facs="tcp:022609_0043_0FB9B5350A0D0F20"/>
+               <pb n="43" facs="unknown:022609_0043_0FB9B5350A0D0F20"/>
                <head>216.</head>
                <p>There is no mortal truly wiſe and reſtleſs at once—wiſdom is the repoſe of minds.</p>
             </div>
@@ -1115,7 +1115,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He is a great and ſelf-poiſed character whom praiſe unnerves not; he is a greater one who ſupports unjuſt cenſure—the greater is he who, with acknowledged powers, re<g ref="char:EOLhyphen"/>preſſes his own, and even turns to uſe unde<g ref="char:EOLhyphen"/>ſerved cenſure.</p>
             </div>
             <div n="223" type="aphorism">
-               <pb n="44" facs="tcp:022609_0044_0FB9B535DCF9E478"/>
+               <pb n="44" facs="unknown:022609_0044_0FB9B535DCF9E478"/>
                <head>223.</head>
                <p>Who, in receiving a benefit, eſtimates its value more cloſely than in conferring one, ſhall be a citizen of a better world.</p>
             </div>
@@ -1142,7 +1142,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="229" type="aphorism">
                <head>229.</head>
                <p>The more inconſiderable, common, and ſeemingly eaſy of diſcovery, the means to the
-<pb n="45" facs="tcp:022609_0045_0FB9B538219EE730"/>attainment of ſome great end—the more genius is there is the plan.</p>
+<pb n="45" facs="unknown:022609_0045_0FB9B538219EE730"/>attainment of ſome great end—the more genius is there is the plan.</p>
             </div>
             <div n="230" type="aphorism">
                <head>230.</head>
@@ -1155,7 +1155,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="232" type="aphorism">
                <head>232.</head>
                <p>The connoiſſeur in painting diſcovers an original by ſome great line, though covered with duſt, and diſguiſed by daubing; ſo he who ſtudies man diſcovers a valuable character by ſome original trait, though unnoticed, diſ<g ref="char:EOLhyphen"/>guiſed, or debaſed—raviſhed at the diſcovery,
-<pb n="46" facs="tcp:022609_0046_0FB9B53F24B2BEB0"/>he feels it his duty to reſtore it to its own genuine ſplendour. Him who, in ſpite of contemptuous pretenders, has the boldneſs to do this, chooſe for your friend.</p>
+<pb n="46" facs="unknown:022609_0046_0FB9B53F24B2BEB0"/>he feels it his duty to reſtore it to its own genuine ſplendour. Him who, in ſpite of contemptuous pretenders, has the boldneſs to do this, chooſe for your friend.</p>
             </div>
             <div n="233" type="aphorism">
                <head>233.</head>
@@ -1174,7 +1174,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Diſtinguiſh exactly what one is when he ſtands alone, and acts for himſelf, and when he is led by others. I know many who act always honeſtly, often with delicacy, when left to themſelves; and like knaves when influenced by ſome overbearing characters, whom they once ſlavi2hly ſubmitted to follow.</p>
             </div>
             <div n="237" type="aphorism">
-               <pb n="47" facs="tcp:022609_0047_0FB9B54179FB2F78"/>
+               <pb n="47" facs="unknown:022609_0047_0FB9B54179FB2F78"/>
                <head>237.</head>
                <p>Be certain that he who has betrayed thee once will betray thee again.</p>
             </div>
@@ -1197,7 +1197,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="242" type="aphorism">
                <head>242.</head>
                <p>Let him look to his heart whoſe call it is to ſpeak for friends and againſt enemies: if
-<pb n="48" facs="tcp:022609_0048_0FB9B5429F0A7CC8"/>calmly he ſpeak pure truth for and againſt, he will ſtand the teſt of moral inquiry on earth or in heaven.</p>
+<pb n="48" facs="unknown:022609_0048_0FB9B5429F0A7CC8"/>calmly he ſpeak pure truth for and againſt, he will ſtand the teſt of moral inquiry on earth or in heaven.</p>
             </div>
             <div n="243" type="aphorism">
                <head>243.</head>
@@ -1220,7 +1220,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who ſinds the cleareſt not clear thinks the darkeſt not obſcure.</p>
             </div>
             <div n="248" type="aphorism">
-               <pb n="49" facs="tcp:022609_0049_0FB9B54425D906A0"/>
+               <pb n="49" facs="unknown:022609_0049_0FB9B54425D906A0"/>
                <head>248.</head>
                <p>The merely juſt can generally bear great virtues as little as great vices.</p>
             </div>
@@ -1245,7 +1245,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who is feared by all the weak, deſpiſed by all the ſtrong, and hated by all the good, may ſecurely ſay to himſelf—No matter, if there be no other raſcal left on earth, I am ſtill one.</p>
             </div>
             <div n="254" type="aphorism">
-               <pb n="50" facs="tcp:022609_0050_0FB9B547E8643D90"/>
+               <pb n="50" facs="unknown:022609_0050_0FB9B547E8643D90"/>
                <head>254.</head>
                <p>The bad man, who protects another bad man, has either committed ſome action no<g ref="char:EOLhyphen"/>toriouſly bad, or plots one.</p>
             </div>
@@ -1274,7 +1274,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Have you ever ſeen a pedant with a warm heart?</p>
             </div>
             <div n="261" type="aphorism">
-               <pb n="51" facs="tcp:022609_0051_0FB9B54A1BC75FB8"/>
+               <pb n="51" facs="unknown:022609_0051_0FB9B54A1BC75FB8"/>
                <head>261.</head>
                <p>The generous never recounts minutely the actions he has done; nor the prudent thoſe he will do.</p>
             </div>
@@ -1297,7 +1297,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="266" type="aphorism">
                <head>266.</head>
                <p>We can do all by ſpeech and ſilence. He, who underſtands the double art of ſpeaking
-<pb n="52" facs="tcp:022609_0052_0FB9B54F581803B8"/>opportunely to the moment, and of ſaying not a ſyllable more or leſs than it demanded—and he who can wrap himſelf up in ſilence when every word would be in vain—will un<g ref="char:EOLhyphen"/>derſtand to connect energy with patience.</p>
+<pb n="52" facs="unknown:022609_0052_0FB9B54F581803B8"/>opportunely to the moment, and of ſaying not a ſyllable more or leſs than it demanded—and he who can wrap himſelf up in ſilence when every word would be in vain—will un<g ref="char:EOLhyphen"/>derſtand to connect energy with patience.</p>
             </div>
             <div n="267" type="aphorism">
                <head>267.</head>
@@ -1321,7 +1321,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He, who is good before inviſible witneſſes, is eminently ſo before the viſible.</p>
             </div>
             <div n="272" type="aphorism">
-               <pb n="53" facs="tcp:022609_0053_0FB9B5504AED7858"/>
+               <pb n="53" facs="unknown:022609_0053_0FB9B5504AED7858"/>
                <head>272.</head>
                <p>The more there is of mind in your ſolitary employments, the more dignity there is in your character.</p>
             </div>
@@ -1344,7 +1344,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="277" type="aphorism">
                <head>277.</head>
                <p>The moſt eloquent ſpeaker, the moſt inge<g ref="char:EOLhyphen"/>nuous writer, and the moſt accompliſhed ſtateſman, cannot effect ſo much as the mere
-<pb n="54" facs="tcp:022609_0054_0FB9B552A1095A08"/>preſence of the man who tempers his wiſdom and his vigour with humanity.</p>
+<pb n="54" facs="unknown:022609_0054_0FB9B552A1095A08"/>preſence of the man who tempers his wiſdom and his vigour with humanity.</p>
             </div>
             <div n="278" type="aphorism">
                <head>278.</head>
@@ -1371,7 +1371,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>The calmly warm is wiſe and noble.</p>
             </div>
             <div n="284" type="aphorism">
-               <pb n="55" facs="tcp:022609_0055_0FB9B5541E7B48A0"/>
+               <pb n="55" facs="unknown:022609_0055_0FB9B5541E7B48A0"/>
                <head>284.</head>
                <p>It is a ſhort ſtep from modeſty to humility; but a ſhorter one from vanity to folly, and from weakneſs to falſehood.</p>
             </div>
@@ -1396,7 +1396,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>You need not hear ſeven words (ſaid a peaſant whom I paſſed this 28th of Septem<g ref="char:EOLhyphen"/>ber, 1787, whilſt I was meditating theſe rules); you need not hear ſeven words to know a man, five or ſix are ſufficient.</p>
             </div>
             <div n="290" type="aphorism">
-               <pb n="56" facs="tcp:022609_0056_0FB9B5561B0724C8"/>
+               <pb n="56" facs="unknown:022609_0056_0FB9B5561B0724C8"/>
                <head>290.</head>
                <p>The proverbial wiſdom of the populace in gates, on roads, and markets, inſtructs the attentive ear of him who ſtudies man more fully than a thouſand rules oſtentatiouſly ar<g ref="char:EOLhyphen"/>ranged.</p>
             </div>
@@ -1425,7 +1425,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who is never raſh in letters, will ſeldom be ſo in ſpeech or actions.</p>
             </div>
             <div n="297" type="aphorism">
-               <pb n="57" facs="tcp:022609_0057_0FB9B55BAB7C00F8"/>
+               <pb n="57" facs="unknown:022609_0057_0FB9B55BAB7C00F8"/>
                <head>297.</head>
                <p>He, whoſe letters are the real tranſcript of friendly converſation, without affected effuſions of ſentiment or wit, ſeems to have a heart formed for friendſhip.</p>
             </div>
@@ -1446,7 +1446,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who turns up his noſe is unfit for friend<g ref="char:EOLhyphen"/>ſhip.</p>
             </div>
             <div n="302" type="aphorism">
-               <pb n="58" facs="tcp:022609_0058_0FB9B55CE2ED2980"/>
+               <pb n="58" facs="unknown:022609_0058_0FB9B55CE2ED2980"/>
                <head>302.</head>
                <p>The collector who trifles not, and heaps knowledge without pedantry, is a favourite of Nature.</p>
             </div>
@@ -1478,7 +1478,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="309" type="aphorism">
                <head>309.</head>
                <p>He, who is led by the paſſionate, has three enemies to cope with during life—the con<g ref="char:EOLhyphen"/>tempt
-<pb n="59" facs="tcp:022609_0059_0FB9B55E5DA34F90"/>of the good, the tyranny of his lea<g ref="char:EOLhyphen"/>ders, and rankling diſcontent.</p>
+<pb n="59" facs="unknown:022609_0059_0FB9B55E5DA34F90"/>of the good, the tyranny of his lea<g ref="char:EOLhyphen"/>ders, and rankling diſcontent.</p>
             </div>
             <div n="310" type="aphorism">
                <head>310.</head>
@@ -1505,7 +1505,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He alone, who makes uſe of his enemies to improve the knowledge of himſelf, is ſeriouſly inclined to grow better.</p>
             </div>
             <div n="316" type="aphorism">
-               <pb n="60" facs="tcp:022609_0060_0FB9B566869B0270"/>
+               <pb n="60" facs="unknown:022609_0060_0FB9B566869B0270"/>
                <head>316.</head>
                <p>Who, purpoſely, cheats his friend, would cheat his God.</p>
             </div>
@@ -1538,7 +1538,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Between paſſion and lie there is not a fin<g ref="char:EOLhyphen"/>ger's breadth.</p>
             </div>
             <div n="324" type="aphorism">
-               <pb n="61" facs="tcp:022609_0061_0FB9B56768BD3300"/>
+               <pb n="61" facs="unknown:022609_0061_0FB9B56768BD3300"/>
                <head>324.</head>
                <p>Avoid, like a ſerpent, him who writes impertinently, yet ſpeaks politely.</p>
             </div>
@@ -1569,7 +1569,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="331" type="aphorism">
                <head>331.</head>
                <p>Call him truly religious who believes in ſomething higher, more powerful, more liv<g ref="char:EOLhyphen"/>ing,
-<pb n="62" facs="tcp:022609_0062_0FB9B568DBA49D48"/>than viſible nature; and who, clear as his own exiſtence, feels his conformity to that ſuperior being.</p>
+<pb n="62" facs="unknown:022609_0062_0FB9B568DBA49D48"/>than viſible nature; and who, clear as his own exiſtence, feels his conformity to that ſuperior being.</p>
             </div>
             <div n="332" type="aphorism">
                <head>332.</head>
@@ -1596,7 +1596,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He has the ſtamp of a great ſoul who hides his deepeſt grief from the friend whom he might truſt even with the communication of vices.</p>
             </div>
             <div n="338" type="aphorism">
-               <pb n="63" facs="tcp:022609_0063_0FB9B56F447BC420"/>
+               <pb n="63" facs="unknown:022609_0063_0FB9B56F447BC420"/>
                <head>338.</head>
                <p>The words of love ſleep in the ear that is too dull to comprehend her ſilence.</p>
             </div>
@@ -1633,7 +1633,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Number among thy worſt of enemies—the hawker of malicious rumours and unex<g ref="char:EOLhyphen"/>plored anecdote.</p>
             </div>
             <div n="347" type="aphorism">
-               <pb n="64" facs="tcp:022609_0064_0FB9B5712143C710"/>
+               <pb n="64" facs="unknown:022609_0064_0FB9B5712143C710"/>
                <head>347.</head>
                <p>Let me repeat it: if you cannot bear to be told by your boſom friend that you have a ſtrong breath, you deſerve not to have a friend.</p>
             </div>
@@ -1672,7 +1672,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="356" type="aphorism">
                <head>356.</head>
                <p>The pureſt religion is the moſt refined Epicuriſm. He, who in the ſmalleſt given
-<pb n="65" facs="tcp:022609_0065_0FB9B5735C0059A8"/>time can enjoy moſt of what he never ſhall repent, and what furniſhes enjoyments, ſtill more unexhauſted, ſtill leſs changeable—is the moſt religious and the moſt voluptuous of men.</p>
+<pb n="65" facs="unknown:022609_0065_0FB9B5735C0059A8"/>time can enjoy moſt of what he never ſhall repent, and what furniſhes enjoyments, ſtill more unexhauſted, ſtill leſs changeable—is the moſt religious and the moſt voluptuous of men.</p>
             </div>
             <div n="357" type="aphorism">
                <head>357.</head>
@@ -1703,7 +1703,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He alone ſhall ſtem oblivion who, in the moments and effects of his exertions, can both forget himſelf and make others forget him.</p>
             </div>
             <div n="364" type="aphorism">
-               <pb n="66" facs="tcp:022609_0066_0FB9B574FA629050"/>
+               <pb n="66" facs="unknown:022609_0066_0FB9B574FA629050"/>
                <head>364.</head>
                <p>He has convivial talents who makes the eater forget his meal; and he has oratory who raviſhes his hearers, whilſt he forgets himſelf.</p>
             </div>
@@ -1724,7 +1724,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Fly him who, from mere curioſity, aſks three queſtions running about a thing that cannot intereſt him.</p>
             </div>
             <div n="369" type="aphorism">
-               <pb n="67" facs="tcp:022609_0067_0FB9B57B0C1B74F0"/>
+               <pb n="67" facs="unknown:022609_0067_0FB9B57B0C1B74F0"/>
                <head>369.</head>
                <p>The firm, without pliancy—and the pliant, without firmneſs—reſemble veſſels without water, water without veſſels.</p>
             </div>
@@ -1750,7 +1750,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                </p>
             </div>
             <div n="375" type="aphorism">
-               <pb n="68" facs="tcp:022609_0068_0FB9B57D77C62AF0"/>
+               <pb n="68" facs="unknown:022609_0068_0FB9B57D77C62AF0"/>
                <head>375.</head>
                <p>The unloved cannot love.</p>
             </div>
@@ -1779,7 +1779,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He loves unalterably who keeps within the bounds of love. Who always ſhews ſome<g ref="char:EOLhyphen"/>what leſs than what he is poſſeſſed of—nor ever utters a ſyllable, or gives a hint, of more than what in fact remains behind—is juſt and friendly in the ſame degree.</p>
             </div>
             <div n="382" type="aphorism">
-               <pb n="69" facs="tcp:022609_0069_0FB9B57EA0549C80"/>
+               <pb n="69" facs="unknown:022609_0069_0FB9B57EA0549C80"/>
                <head>382.</head>
                <p>Few can tell what he can operate who has oeconomy of words without ſcarcity, and li<g ref="char:EOLhyphen"/>berality without profuſion.</p>
             </div>
@@ -1806,7 +1806,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="388" type="aphorism">
                <head>388.</head>
                <p>The powerful, who notices the exertions of an inferior, has ſomething of the character
-<pb n="70" facs="tcp:022609_0070_0FB9B58137236310"/>of Him who, in exchange for a relinquiſhed boat, promiſed the owner one of the twelve firſt thrones of heaven.</p>
+<pb n="70" facs="unknown:022609_0070_0FB9B58137236310"/>of Him who, in exchange for a relinquiſhed boat, promiſed the owner one of the twelve firſt thrones of heaven.</p>
             </div>
             <div n="389" type="aphorism">
                <head>389.</head>
@@ -1825,7 +1825,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He is not ignorant of man who knows the value and effect of words: and he, who fears nothing leſs and attends to nothing more than words, has true philoſophy.</p>
             </div>
             <div n="393" type="aphorism">
-               <pb n="71" facs="tcp:022609_0071_0FB9B58487B505C0"/>
+               <pb n="71" facs="unknown:022609_0071_0FB9B58487B505C0"/>
                <head>393.</head>
                <p>He has honeſty, vigour, dignity, who in the firſt tranſports of invention promiſes leſs than he will probably perform.</p>
             </div>
@@ -1854,7 +1854,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He alone is good, who, though poſſeſſed of energy, prefers virtue, with the appear<g ref="char:EOLhyphen"/>ance of weakneſs, to the invitation of acting brilliantly ill.</p>
             </div>
             <div n="400" type="aphorism">
-               <pb n="72" facs="tcp:022609_0072_0FB9B586F6263690"/>
+               <pb n="72" facs="unknown:022609_0072_0FB9B586F6263690"/>
                <head>400.</head>
                <p>Intuition (what the French call <hi>'coup d'oeil'</hi>) is the greateſt, ſimpleſt, moſt inexhauſted gift a mortal can receive from heaven: who has that has all; and who has it not has little of what conſtitutes the good and great.</p>
             </div>
@@ -1881,7 +1881,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="406" type="aphorism">
                <head>406.</head>
                <p>He, who to obtain much will ſuffer little or nothing, can never be called great; and
-<pb n="73" facs="tcp:022609_0073_0FB9B5885BE96A90"/>none ever little, who, to obtain one great object, will ſuffer much.</p>
+<pb n="73" facs="unknown:022609_0073_0FB9B5885BE96A90"/>none ever little, who, to obtain one great object, will ſuffer much.</p>
             </div>
             <div n="407" type="aphorism">
                <head>407.</head>
@@ -1912,7 +1912,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He knows little of man who truſts him with much that cares for no one.</p>
             </div>
             <div n="414" type="aphorism">
-               <pb n="74" facs="tcp:022609_0074_0FB9B589DB015868"/>
+               <pb n="74" facs="unknown:022609_0074_0FB9B589DB015868"/>
                <head>414.</head>
                <p>Love ſees what no eye ſees; love hears what no ear hears; and what never roſe in the heart of man, love prepares for its object.</p>
             </div>
@@ -1935,7 +1935,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="419" type="aphorism">
                <head>419.</head>
                <p>I have heard nothing but what is good of ſuch an one, yet I cannot love him heartily; that is, I can have no dependence on his taſte, his love of order, his rectitude—becauſe he
-<pb n="75" facs="tcp:022609_0075_0FB9B59197EE9A28"/>ſuffers two ornaments, of dimenſions exactly ſimilar, to hang together, the one two inches higher than the other.</p>
+<pb n="75" facs="unknown:022609_0075_0FB9B59197EE9A28"/>ſuffers two ornaments, of dimenſions exactly ſimilar, to hang together, the one two inches higher than the other.</p>
             </div>
             <div n="420" type="aphorism">
                <head>420.</head>
@@ -1962,7 +1962,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>There is no inſtance of a miſer becoming a prodigal without loſing his intellect; but there are thouſands of prodigals becoming miſers: if, therefore, your turn be profuſe, nothing is ſo much to be avoided as avarice: and, if you be a miſer, procure a phyſician who can cure an irremediable diſorder.</p>
             </div>
             <div n="426" type="aphorism">
-               <pb n="76" facs="tcp:022609_0076_0FB9B59492811B38"/>
+               <pb n="76" facs="unknown:022609_0076_0FB9B59492811B38"/>
                <head>426.</head>
                <p>Baſeneſs and avarice are more inſeparable than generoſity and magnanimity.</p>
             </div>
@@ -1987,7 +1987,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He, who can rail at benevolence, has ſet his heel on the neck of religion.</p>
             </div>
             <div n="432" type="aphorism">
-               <pb n="77" facs="tcp:022609_0077_0FB9B595DF4B65F8"/>
+               <pb n="77" facs="unknown:022609_0077_0FB9B595DF4B65F8"/>
                <head>432.</head>
                <p>Who, in the preſence of a great man, treats you as if you were not preſent, is equally proud and little.</p>
             </div>
@@ -2016,7 +2016,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Let him not ſhare the moſt remote corner of your heart, who, without being your in<g ref="char:EOLhyphen"/>timate, hangs prying over your ſhoulder whilſt you are writing.</p>
             </div>
             <div n="439" type="aphorism">
-               <pb n="78" facs="tcp:022609_0078_0FB9B59878EF9790"/>
+               <pb n="78" facs="unknown:022609_0078_0FB9B59878EF9790"/>
                <head>439.</head>
                <p>Truſt not him with your ſecrets, who, when left alone in your room, turns over your papers.</p>
             </div>
@@ -2047,7 +2047,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="446" type="aphorism">
                <head>446.</head>
                <p>The half-character, who has impudence enough to attempt domineering over the
-<pb n="79" facs="tcp:022609_0079_0FB9B59EA5607758"/>whole one, is, of all tyrants, calumniators, and villains, the moſt inſufferable.</p>
+<pb n="79" facs="unknown:022609_0079_0FB9B59EA5607758"/>whole one, is, of all tyrants, calumniators, and villains, the moſt inſufferable.</p>
             </div>
             <div n="447" type="aphorism">
                <head>447.</head>
@@ -2071,7 +2071,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                </p>
             </div>
             <div n="452" type="aphorism">
-               <pb n="80" facs="tcp:022609_0080_0FB9B5A063E1DE08"/>
+               <pb n="80" facs="unknown:022609_0080_0FB9B5A063E1DE08"/>
                <head>452.</head>
                <p>The obſtinacy of the indolent and weak is leſs conquerable than that of the fiery and bold.</p>
             </div>
@@ -2096,7 +2096,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Nothing is ſo pregnant as cruelty: ſo mul<g ref="char:EOLhyphen"/>tiparous, ſo rapid, ſo ever-teeming a mother is unknown to the animal kingdom; each of her experiments provokes another, and re<g ref="char:EOLhyphen"/>fines upon the laſt—though always progreſ<g ref="char:EOLhyphen"/>ſive, yet always remote from the end.</p>
             </div>
             <div n="458" type="aphorism">
-               <pb n="81" facs="tcp:022609_0081_0FB9B5A2AD863490"/>
+               <pb n="81" facs="unknown:022609_0081_0FB9B5A2AD863490"/>
                <head>458.</head>
                <p>Smiles at the relation of inhumanities be<g ref="char:EOLhyphen"/>tray, at leaſt, a fund of inhumanity.</p>
             </div>
@@ -2129,7 +2129,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>If you mean to eſcape your creditor or enemy, avoid him not.</p>
             </div>
             <div n="466" type="aphorism">
-               <pb n="82" facs="tcp:022609_0082_0FB9B5A6D156C820"/>
+               <pb n="82" facs="unknown:022609_0082_0FB9B5A6D156C820"/>
                <head>466.</head>
                <p>Who purpoſely abuſes the bounty of un<g ref="char:EOLhyphen"/>conditional benevolence, has a ſeat prepared for him at the right hand of the throne of hell.</p>
             </div>
@@ -2158,7 +2158,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who indiſcriminately returns careſſes for careſſes, and flattery for flattery, will, with equal indifference, forget them when they are paſſed.</p>
             </div>
             <div n="473" type="aphorism">
-               <pb n="83" facs="tcp:022609_0083_0FB9B5A8D61A9990"/>
+               <pb n="83" facs="unknown:022609_0083_0FB9B5A8D61A9990"/>
                <head>473.</head>
                <p>He alone is a man who can reſiſt the genius of the age, the tone of faſhion, with vigorous ſimplicity and modeſt courage.</p>
             </div>
@@ -2183,7 +2183,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Aſſure yourſelf that he has not the moſt diſtant ſcent of human nature who weens that he is able to alter it, or thinks to obtain that eaſily of others which he can never obtain of himſelf.</p>
             </div>
             <div n="479" type="aphorism">
-               <pb n="84" facs="tcp:022609_0084_0FB9B5AAF03F9000"/>
+               <pb n="84" facs="unknown:022609_0084_0FB9B5AAF03F9000"/>
                <head>479.</head>
                <p>An entirely honeſt man, in the ſevere ſenſe of the word, exiſts no more than an entirely diſhoneſt knave: the beſt and the worſt are only approximations of thoſe qualities. Who are thoſe that never contradict themſelves? yet honeſty never contradicts itſelf: Who are thoſe that always contradict themſelves? yet knavery is mere ſelf-contradiction. Thus the knowledge of man determines not the things themſelves, but their proportions, the quan<g ref="char:EOLhyphen"/>tum of congruities and incongruities.</p>
             </div>
@@ -2204,7 +2204,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Whom every book delights which he reads none has inſtructed which he read.</p>
             </div>
             <div n="484" type="aphorism">
-               <pb n="85" facs="tcp:022609_0085_0FB9B5B02B04A648"/>
+               <pb n="85" facs="unknown:022609_0085_0FB9B5B02B04A648"/>
                <head>484.</head>
                <p>He who judges perverſely on a clear ſimple ſubject, on which a promiſcuous number of impartial people have judged uniformly—proves an obliquity of mind which takes all weight from his opinion on any other ſubject.</p>
             </div>
@@ -2235,7 +2235,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="491" type="aphorism">
                <head>491.</head>
                <p>Who knows the moment of ceaſing knows the moment of beginning, and that of pro<g ref="char:EOLhyphen"/>ceeding.
-<pb n="86" facs="tcp:022609_0086_0FB9B5B3059DA710"/>Judge of no man's prudence, experience, or genius, till you have witneſ<g ref="char:EOLhyphen"/>ſed ſome of his <hi>fin<gap reason="illegible" resp="#UOM" extent="1 letter">
+<pb n="86" facs="unknown:022609_0086_0FB9B5B3059DA710"/>Judge of no man's prudence, experience, or genius, till you have witneſ<g ref="char:EOLhyphen"/>ſed ſome of his <hi>fin<gap reason="illegible" resp="#UOM" extent="1 letter">
                         <desc>•</desc>
                      </gap>li.</hi>
                </p>
@@ -2265,7 +2265,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He, who has frequent moments of com<g ref="char:EOLhyphen"/>plete exiſtence, is a hero, though not laurel<g ref="char:EOLhyphen"/>led; is, crowned and without crowns, a king: he only who has enjoyed immortal moments can reproduce them.</p>
             </div>
             <div n="498" type="aphorism">
-               <pb n="87" facs="tcp:022609_0087_0FB9B5B3DF8755B8"/>
+               <pb n="87" facs="unknown:022609_0087_0FB9B5B3DF8755B8"/>
                <head>498.</head>
                <p>The greater that which you can hide, the greater yourſelf.</p>
             </div>
@@ -2290,7 +2290,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Him, who makes familiarity the tool of miſchief, moral precepts can as little recall to virtue as medical preſcriptions a decayed habit to health.</p>
             </div>
             <div n="504" type="aphorism">
-               <pb n="88" facs="tcp:022609_0088_0FB9B5B55B86CC78"/>
+               <pb n="88" facs="unknown:022609_0088_0FB9B5B55B86CC78"/>
                <head>504.</head>
                <p>He, who cannot forgive a treſpaſs of ma<g ref="char:EOLhyphen"/>lice to his enemy, has never yet taſted the moſt ſublime enjoyment of love.</p>
             </div>
@@ -2311,7 +2311,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>You may have hot enemies without hav<g ref="char:EOLhyphen"/>ing a warm friend; but not a fervid friend without a bitter enemy. The qualities of your friends will be thoſe of your enemies: cold friends, cold enemies—half friends, half enemies—fervid enemies, warm friends.</p>
             </div>
             <div n="509" type="aphorism">
-               <pb n="89" facs="tcp:022609_0089_0FB9B5BA46253248"/>
+               <pb n="89" facs="unknown:022609_0089_0FB9B5BA46253248"/>
                <head>509.</head>
                <p>Late beginners ſeldom attain the end with<g ref="char:EOLhyphen"/>out difficulty. There are few privileged minds who defer long, and with rapidity perform better than the conſiderate who have conſulted time; but there are ſome who reſemble tor<g ref="char:EOLhyphen"/>rents ſwelled by delay; who, in thoſe moments of preſſure, not only exerts genius, but gives to his labours their roundeſt finiſh, the neateſt order, their moſt elegant poliſh—claſſes with thoſe few mortals who have the privilege to do, or leave undone, as they pleaſe. He is one of thoſe whoſe faults carry their atone<g ref="char:EOLhyphen"/>ment with them—whom the offended and the envious with equal aſtoniſhment applaud, and never permit themſelves a farther doubt about their royal prerogative.</p>
             </div>
@@ -2324,7 +2324,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He, who reforms himſelf, has done more toward reforming the public than a crowd of noiſy impotent patriots.</p>
             </div>
             <div n="512" type="aphorism">
-               <pb n="90" facs="tcp:022609_0090_0FB9B5BC21A0BBF0"/>
+               <pb n="90" facs="unknown:022609_0090_0FB9B5BC21A0BBF0"/>
                <head>512.</head>
                <p>If <hi>Pius the Sixth</hi> (I often ſaid) be not in his perſon king of the emperor it is fooliſh enough to go to Vienna; but if his perſon be the pope's pope, he may go and do immortal acts. It is perſonally only we can act dura<g ref="char:EOLhyphen"/>bly—he who knows this, knows more than a thouſand polyhiſtors.</p>
             </div>
@@ -2349,7 +2349,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who attempts to cover what can not be covered, is an idiot and hypocrite at once.</p>
             </div>
             <div n="518" type="aphorism">
-               <pb n="91" facs="tcp:022609_0091_0FB9B5BD9AF9DE58"/>
+               <pb n="91" facs="unknown:022609_0091_0FB9B5BD9AF9DE58"/>
                <head>518.</head>
                <p>He is familiar with celeſtial wiſdom, and ſeems inſtructed by ſuperior ſpirits, who can annihilate a ſettled prejudice againſt him.</p>
             </div>
@@ -2368,14 +2368,14 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="522" type="aphorism">
                <head>522.</head>
                <p>Take from <hi>Luther</hi> his roughneſs and ſiery courage; from <hi>Calvin</hi> his hectic obſtinacy; from <hi>Eraſmus</hi> his timid prudence; hypocriſy and fanaticiſm from <hi>Cromwell;</hi> from <hi>Henry</hi> IV. his ſanguine character; myſticiſm from <hi>Fenelon;</hi> from <hi>Hume</hi> his all-unhinging ſub<g ref="char:EOLhyphen"/>tilty; love of paradox and brooding ſuſpicion from <hi>Rouſſeau;</hi> naivetè and elegance of kna<g ref="char:EOLhyphen"/>very from <hi>Voltaire;</hi> from <hi>Milton</hi> the extra<g ref="char:EOLhyphen"/>vagance of his all-perſonifying fancy; from <hi>Raffaelle</hi> his dryneſs and nearly hard preciſion; and from <hi>Rubens</hi> his ſupernatural luxury of colour:—deduct this oppreſſive <hi>exuberance</hi> from each; rectify them according to your own taſte—what will be the reſult? your own
-<pb n="92" facs="tcp:022609_0092_0FB9B5C4D5EC2AD8"/>correct, pretty, flat, uſeful—for me, to be ſure, quite convenient vulgarity. And why this amongſt maxims of humanity? that you may learn to know this <hi>exuberance,</hi> this <hi>leven</hi> of each great character, and its effects on contemporaries and poſterity—that you may know where d, e, f, is, there muſt be a, b, c: he alone has knowledge of man, who knows the ferment that raiſes each character, and makes it that which it ſhall be, and ſome<g ref="char:EOLhyphen"/>thing more or leſs than it ſhall be.</p>
+<pb n="92" facs="unknown:022609_0092_0FB9B5C4D5EC2AD8"/>correct, pretty, flat, uſeful—for me, to be ſure, quite convenient vulgarity. And why this amongſt maxims of humanity? that you may learn to know this <hi>exuberance,</hi> this <hi>leven</hi> of each great character, and its effects on contemporaries and poſterity—that you may know where d, e, f, is, there muſt be a, b, c: he alone has knowledge of man, who knows the ferment that raiſes each character, and makes it that which it ſhall be, and ſome<g ref="char:EOLhyphen"/>thing more or leſs than it ſhall be.</p>
             </div>
             <div n="523" type="aphorism">
                <head>523.</head>
                <p>I have often, too often, been tempted, at the daily relation of new knaveries, to deſpiſe human nature in every individual, till, on minute anatomy of each trick, I found that the knave was only an <hi>enthuſiaſt</hi> or <hi>momentary fool.</hi> This diſcovery of momentary folly, ſymptoms of which aſſail the wiſeſt and the beſt, has thrown a great conſolatory light on my inquiries into man's moral nature: by this the theoriſt is enabled to aſſign to each claſs and each individual their own peculiar fit of vice or folly; and to contraſt the ludi<g ref="char:EOLhyphen"/>crous or diſmal catalogue with the pleaſing one of ſentiment and virtue, more properly their own.</p>
             </div>
             <div n="524" type="aphorism">
-               <pb n="93" facs="tcp:022609_0093_0FB9B5C6A42130F8"/>
+               <pb n="93" facs="unknown:022609_0093_0FB9B5C6A42130F8"/>
                <head>524.</head>
                <p>He, who is maſter of the fitteſt moment to cruſh his enemy, and magnanimouſly neglects it, is born to be a conqueror.</p>
             </div>
@@ -2398,7 +2398,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="529" type="aphorism">
                <head>529.</head>
                <p>A great woman not imperious, a fair wo<g ref="char:EOLhyphen"/>man not vain, a woman of common talents
-<pb n="94" facs="tcp:022609_0094_0FB9B5C9256A8D60"/>not jealous, an accompliſhed woman who ſcorns to ſhine—are four wonders juſt great enough to be divided among the four quar<g ref="char:EOLhyphen"/>ters of the globe.</p>
+<pb n="94" facs="unknown:022609_0094_0FB9B5C9256A8D60"/>not jealous, an accompliſhed woman who ſcorns to ſhine—are four wonders juſt great enough to be divided among the four quar<g ref="char:EOLhyphen"/>ters of the globe.</p>
             </div>
             <div n="530" type="aphorism">
                <head>530.</head>
@@ -2421,7 +2421,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>He, who chooſes to conſider the ambigu<g ref="char:EOLhyphen"/>ous action of an enemy in its faireſt light, has ſome acquaintance with the heart of man, and is a friend to virtue.</p>
             </div>
             <div n="535" type="aphorism">
-               <pb n="95" facs="tcp:022609_0095_0FB9B5CA6B87F778"/>
+               <pb n="95" facs="unknown:022609_0095_0FB9B5CA6B87F778"/>
                <head>535.</head>
                <p>He, who is in want of witneſſes in order to be good, has neither virtue nor religion.</p>
             </div>
@@ -2444,7 +2444,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="540" type="aphorism">
                <head>540.</head>
                <p>He who always ſeeks more light the more he finds, and finds more the more he ſeeks, is one of the few happy mortals who take and give in every point of time: the tide and
-<pb n="96" facs="tcp:022609_0096_0FB9B5CC0F443BD0"/>ebb of giving and receiving, is the ſum of human happineſs, which he alone enjoys who always wiſhes to acquire new knowledge, and always finds it.</p>
+<pb n="96" facs="unknown:022609_0096_0FB9B5CC0F443BD0"/>ebb of giving and receiving, is the ſum of human happineſs, which he alone enjoys who always wiſhes to acquire new knowledge, and always finds it.</p>
             </div>
             <div n="541" type="aphorism">
                <head>541.</head>
@@ -2467,7 +2467,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>It is poſſible that a wiſe and good man may be prevailed on to game; but it is impoſſi<g ref="char:EOLhyphen"/>ble that a profeſſed gameſter ſhould be a wiſe and good man.</p>
             </div>
             <div n="546" type="aphorism">
-               <pb n="97" facs="tcp:022609_0097_0FB9B5CF9B7BB0B8"/>
+               <pb n="97" facs="unknown:022609_0097_0FB9B5CF9B7BB0B8"/>
                <head>546.</head>
                <p>Where there is much pretenſion, much has been borrowed—nature never pretends.</p>
             </div>
@@ -2496,7 +2496,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Avoid him who ſpeaks ſoftly, and writes ſharply.</p>
             </div>
             <div n="553" type="aphorism">
-               <pb n="98" facs="tcp:022609_0098_0FB9B5D5876C3908"/>
+               <pb n="98" facs="unknown:022609_0098_0FB9B5D5876C3908"/>
                <head>553.</head>
                <p>The proportion of genius to the vulgar is like one to a million; but genius without tyranny, without pretenſion, that judges the weak with equity, the ſuperior with humi<g ref="char:EOLhyphen"/>lity, and equals with juſtice—is like one to ten millions.</p>
             </div>
@@ -2521,7 +2521,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>A perfidious friend will be the aſſaſſin of his enemy.</p>
             </div>
             <div n="559" type="aphorism">
-               <pb n="99" facs="tcp:022609_0099_0FB9B5D727891418"/>
+               <pb n="99" facs="unknown:022609_0099_0FB9B5D727891418"/>
                <head>559.</head>
                <p>He, who feels himſelf impelled to calum<g ref="char:EOLhyphen"/>niate the good, need not much doubt the exiſtence of daemoniacs;</p>
             </div>
@@ -2550,7 +2550,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Truth, Wiſdom, Love, ſeek reaſons; Malice only cauſes.</p>
             </div>
             <div n="566" type="aphorism">
-               <pb n="100" facs="tcp:022609_0100_0FB9B1D2DE3181E8"/>
+               <pb n="100" facs="unknown:022609_0100_0FB9B1D2DE3181E8"/>
                <head>566.</head>
                <p>The man who has and uſes but one ſcale for every thing, for himſelf and his enemy, the paſt and the future, the grand and the trifle, for truth and error, virtue and vice, religion, ſuperſtition, infidelity: for nature, art, and works of genius and art—is truly wiſe, juſt, great.</p>
             </div>
@@ -2569,7 +2569,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="570" type="aphorism">
                <head>570.</head>
                <p>Range him high amongſt your ſaints, who, with all-acknowledged powers, and his own ſtedfaſt ſcale for every thing, can, on the call of judgment or advice, ſubmit to tranſpoſe
-<pb n="101" facs="tcp:022609_0101_0FB9B1D804E71C98"/>himſelf into another's ſituation, and to adopt his point of ſight.</p>
+<pb n="101" facs="unknown:022609_0101_0FB9B1D804E71C98"/>himſelf into another's ſituation, and to adopt his point of ſight.</p>
             </div>
             <div n="571" type="aphorism">
                <head>571.</head>
@@ -2596,7 +2596,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Who comes as he goes, and is preſent as he came and went, is ſincere.</p>
             </div>
             <div n="577" type="aphorism">
-               <pb n="102" facs="tcp:022609_0102_0FB9B1D9A6E09748"/>
+               <pb n="102" facs="unknown:022609_0102_0FB9B1D9A6E09748"/>
                <head>577.</head>
                <p>Save me from him who is inexhauſtible in evaſions when he is called upon to do a good thing, and teems with excuſes when he has done a bad one.</p>
             </div>
@@ -2619,7 +2619,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="582" type="aphorism">
                <head>582.</head>
                <p>If you are deſtitute of ſentiment, principle, genius, and inſtruction, you may be ſuppoſed unfit for ſcience and for virtue: but, if with<g ref="char:EOLhyphen"/>out genius you pretend to excel; if without ſentiment you affect to think yourſelf ſuperior to eſtabliſhed principle; know that you are
-<pb n="103" facs="tcp:022609_0103_0FB9B1DB67BEB690"/>as much between fool and knave as you are between right and left.</p>
+<pb n="103" facs="unknown:022609_0103_0FB9B1DB67BEB690"/>as much between fool and knave as you are between right and left.</p>
             </div>
             <div n="583" type="aphorism">
                <head>583.</head>
@@ -2642,7 +2642,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>"Hate as if you could love or ſhould be loved;"—him who follows this maxim, if all the world were to declare an idiot and en<g ref="char:EOLhyphen"/>thuſiaſt, I ſhall eſteem, of all men, the moſt eminently formed for friendſhip.</p>
             </div>
             <div n="588" type="aphorism">
-               <pb n="104" facs="tcp:022609_0104_0FB9B1E05E2E6120"/>
+               <pb n="104" facs="unknown:022609_0104_0FB9B1E05E2E6120"/>
                <head>588.</head>
                <p>If you ſupport not the meaſure you ap<g ref="char:EOLhyphen"/>prove of by your voice, you decide againſt it by ſilence.</p>
             </div>
@@ -2655,7 +2655,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Diſtinguiſh with exactneſs, if you mean to know yourſelf and others, what is ſo often miſtaken—the <hi>ſingular,</hi> the <hi>original,</hi> the <hi>ex<g ref="char:EOLhyphen"/>traordinary,</hi> the <hi>great,</hi> and the <hi>ſublime</hi> man. The <hi>ſublime</hi> alone unites the ſingular, origi<g ref="char:EOLhyphen"/>nal, extraordinary and great, with his own uniformity and ſimplicity: the <hi>great,</hi> with many powers, and uniformity of ends, is deſtitute of that ſuperior calmneſs and in<g ref="char:EOLhyphen"/>ward harmony which ſoars above the atmoſ<g ref="char:EOLhyphen"/>phere of praiſe: the <hi>extraordinary</hi> is diſtin<g ref="char:EOLhyphen"/>guiſhed by copiouſneſs, and a wide range of energy: the <hi>original</hi> need not be very rich, only that which he produces is unique, and has the excluſive ſtamp of individuality: the <hi>ſingular,</hi> as ſuch, is placed between origina<g ref="char:EOLhyphen"/>lity and whim, and often makes a trifle the medium of fame.</p>
             </div>
             <div n="591" type="aphorism">
-               <pb n="105" facs="tcp:022609_0105_0FB9B1E5CDBF2658"/>
+               <pb n="105" facs="unknown:022609_0105_0FB9B1E5CDBF2658"/>
                <head>591.</head>
                <p>Forwardneſs nips affection in the bud.</p>
             </div>
@@ -2682,7 +2682,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="597" type="aphorism">
                <head>597.</head>
                <p>Him who is hurried on by the furies of immature, impetuous wiſhes, ſtern repen<g ref="char:EOLhyphen"/>tance ſhall drag, bound and reluctant, back to the place from which he ſallied: where
-<pb n="106" facs="tcp:022609_0106_0FB9B1E81A00C8B8"/>you hear the crackling of wiſhes expect in<g ref="char:EOLhyphen"/>tolerable vapours or repining grief.</p>
+<pb n="106" facs="unknown:022609_0106_0FB9B1E81A00C8B8"/>you hear the crackling of wiſhes expect in<g ref="char:EOLhyphen"/>tolerable vapours or repining grief.</p>
             </div>
             <div n="598" type="aphorism">
                <head>598.</head>
@@ -2707,7 +2707,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="603" type="aphorism">
                <head>603.</head>
                <p>Injuſtice ariſes either from precipitation or indolence, or from a mixture of both; the
-<pb n="107" facs="tcp:022609_0107_0FB9B1E97012E280"/>rapid and the ſlow are ſeldom juſt; the unjuſt wait either not at all, or wait too long.</p>
+<pb n="107" facs="unknown:022609_0107_0FB9B1E97012E280"/>rapid and the ſlow are ſeldom juſt; the unjuſt wait either not at all, or wait too long.</p>
             </div>
             <div n="604" type="aphorism">
                <head>604.</head>
@@ -2730,7 +2730,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Set him down as your inferior who liſtens to you in a tête-à-tête, and contradicts you when a third appears.</p>
             </div>
             <div n="609" type="aphorism">
-               <pb n="108" facs="tcp:022609_0108_0FB9B1EADE813058"/>
+               <pb n="108" facs="unknown:022609_0108_0FB9B1EADE813058"/>
                <head>609.</head>
                <p>Each heart is a world of nations, claſſes, and individuals; full of friendſhips, enmities, indifferences; full of being and decay, of life and death: the paſt, the preſent, and the future; the ſprings of health and engines of diſeaſe: here joy and grief, hope and fear, love and hate, fluctuate, and toſs the fullen and the gay, the hero and the coward, the giant and the dwarf, deformity and beauty, on ever reſtleſs waves. You find all <hi>within</hi> yourſelf that you find <hi>without:</hi> the number and character of your friends within, bears an exact reſemblance to your external ones; and your internal enemies are juſt as many, as inveterate, as irreconcilable, as thoſe with<g ref="char:EOLhyphen"/>out: the world that ſurrounds you is the magic-glaſs of the world, and of its forms within you; the brighter you are yourſelf, ſo much brighter are your friends—ſo much more polluted your enemies. Be aſſured then, that to know yourſelf perfectly you have only to ſet down a true ſtatement of thoſe that ever loved or hated you.</p>
             </div>
@@ -2739,7 +2739,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Him, who can reſrain from diving into ſecrets of mere unimproving curioſity, you may chooſe for the depoſitary of your inmoſt thoughts.</p>
             </div>
             <div n="611" type="aphorism">
-               <pb n="109" facs="tcp:022609_0109_0FB9B1F2728F86F8"/>
+               <pb n="109" facs="unknown:022609_0109_0FB9B1F2728F86F8"/>
                <head>611.</head>
                <p>He ſurely is moſt in want of another's patience, who has none of his own.</p>
             </div>
@@ -2758,7 +2758,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="615" type="aphorism">
                <head>615.</head>
                <p>You, who aſſume protection and give yourſelf the airs of patronage, know that,
-<pb n="110" facs="tcp:022609_0110_0FB9B1F55AA8B500"/>unattended by humanity or delicacy, your obligations are but oppreſſions, and your ſervices affronts.</p>
+<pb n="110" facs="unknown:022609_0110_0FB9B1F55AA8B500"/>unattended by humanity or delicacy, your obligations are but oppreſſions, and your ſervices affronts.</p>
             </div>
             <div n="616" type="aphorism">
                <head>616.</head>
@@ -2774,7 +2774,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>There is no middle path for him who has once been caught in an infamous action: he either will be a <hi>villain</hi> or a <hi>ſaint;</hi> the diſco<g ref="char:EOLhyphen"/>very of his crime muſt rankle, muſt ferment, through life within him; dead to honour, and infuriate againſt ſociety, he will either ruſh from plot to plot to indiſcriminate per<g ref="char:EOLhyphen"/>dition, or, if he yet retain ſome moral ſenſe, contrition and ſelf-abhorrence may kindle the latent ſpark into a blaze of exemplary ſanctity.</p>
             </div>
             <div n="619" type="aphorism">
-               <pb n="111" facs="tcp:022609_0111_0FB9B1F639709ED0"/>
+               <pb n="111" facs="unknown:022609_0111_0FB9B1F639709ED0"/>
                <head>619.</head>
                <p>He is a poor local creature who judges of men and things merely from the prujudices of his nation and time: but he is a knave, who, in poſſeſſion of general principles, deals wanton condemnation on the ſame narrow ſcale.</p>
             </div>
@@ -2793,7 +2793,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <div n="623" type="aphorism">
                <head>623.</head>
                <p>You think to meet with ſome additions here to your ſtock of moral knowledge—and not in vain, I hope: but know, a great many rules cannot be given by him who means not
-<pb n="112" facs="tcp:022609_0112_0FB9B1FA0B486998"/>to offend, and many of mine have perhaps offended already; believe me, for him who has an open ear and eye, every minute teems with obſervations of precious import, yet ſcarcely communicable to the moſt faithful friend; ſo incredibly weak, ſo vulnerable in certain points, is man: forbear to meddle with theſe at your firſt ſetting out, and make amuſement the miniſter of reflection: ſacri<g ref="char:EOLhyphen"/>fice all egotiſm—ſacrifice ten points to one if that one have the value of twenty; and, if you are happy enough to impreſs your diſ<g ref="char:EOLhyphen"/>ciple with reſpect for himſelf, with probabi<g ref="char:EOLhyphen"/>lity of ſucceſs in his exertions of growing better, and, above all, with the idea of your diſintereſtedneſs—you may perhaps ſucceed in making one proſelyte to virtue.</p>
+<pb n="112" facs="unknown:022609_0112_0FB9B1FA0B486998"/>to offend, and many of mine have perhaps offended already; believe me, for him who has an open ear and eye, every minute teems with obſervations of precious import, yet ſcarcely communicable to the moſt faithful friend; ſo incredibly weak, ſo vulnerable in certain points, is man: forbear to meddle with theſe at your firſt ſetting out, and make amuſement the miniſter of reflection: ſacri<g ref="char:EOLhyphen"/>fice all egotiſm—ſacrifice ten points to one if that one have the value of twenty; and, if you are happy enough to impreſs your diſ<g ref="char:EOLhyphen"/>ciple with reſpect for himſelf, with probabi<g ref="char:EOLhyphen"/>lity of ſucceſs in his exertions of growing better, and, above all, with the idea of your diſintereſtedneſs—you may perhaps ſucceed in making one proſelyte to virtue.</p>
             </div>
             <div n="624" type="aphorism">
                <head>624.</head>
@@ -2804,7 +2804,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Keep your heart from him who begins his acquaintance with you by indirect flattery of your favourite paradox or ſoible.</p>
             </div>
             <div n="626" type="aphorism">
-               <pb n="113" facs="tcp:022609_0113_0FB9B1FBE50EC548"/>
+               <pb n="113" facs="unknown:022609_0113_0FB9B1FBE50EC548"/>
                <head>626.</head>
                <p>Receive no ſatisfaction for premeditated impertinence—forget it, forgive it—but keep him inexorably at a diſtance who of<g ref="char:EOLhyphen"/>fered it.</p>
             </div>
@@ -2821,7 +2821,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
                <p>Roughneſs in friendſhip is at leaſt as diſ<g ref="char:EOLhyphen"/>guſting as an offenſive breath from a beauti<g ref="char:EOLhyphen"/>ful mouth—the rough may perhaps be truſty, ſincere, ſecret—but he is a fool if he expects delicacy from others, and a hypocrite if he pretends to it himſelf.</p>
             </div>
             <div n="630" type="aphorism">
-               <pb n="114" facs="tcp:022609_0114_0FB9B1FE5E0E1398"/>
+               <pb n="114" facs="unknown:022609_0114_0FB9B1FE5E0E1398"/>
                <head>630.</head>
                <p>The moral enthuſiaſt, who, in the maze of his refinements, loſes or deſpiſes the plain paths of honeſty and duty, is on the brink of crimes.</p>
             </div>
@@ -2842,7 +2842,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:022609_0115_0FB9B205CB9702B0"/>
+            <pb facs="unknown:022609_0115_0FB9B205CB9702B0"/>
             <head>BERRY AND ROGERS, No. 35, <hi>Hanover-Square, directly oppoſite the Bank,</hi> HAVE FOR SALE,</head>
             <p>A NEW and elegant aſſortment of plated buckles, men's faſhionable round and cock'd hats, coloured and white patent ſilk ſtockings, patent ſilk and cotton do, ladies fine cotton hoſe, fans, ſliders for ladies hair, fancy waiſtcoats, gold and ſilver lace, gold and ſilver ſpangles, with thread for tambour work, feathers of different co<g ref="char:EOLhyphen"/>lours, ladies beaver hats, jewellery, plated and japanned ware, knives and ſorks, mahogany knife-caſes, penknives, ſciſſars, cork-ſcrews, razors, pocket and aſs-ſkin books, ſlates, guitars, fifes with muſic for the ſame, cake black<g ref="char:EOLhyphen"/>ing, cloth and ſhoe bruſhes, backgammon-tables, cheſs boards and men, billiard-balls, dice, battledores and ſhuttle-cocks, playing and meſſage cards, Middleton's black lead pencils, ſpectacles, mathematical inſtruments, gloves, canes, fiddle-ſtrings, ſealing-wax, beſt quality; whips, ſpurs, boot garters, wax tapers, Reeve's patent colours, glazier's diamonds, hair-ribbon, combs, gold and ſilver leaf, tooth bruſhes, guns, piſtols, ſwords, patent ſhot, battle gun-powder, bird cages, perfumery, ſurveying compaſſes, travelling do, chains for ſurveyors.</p>
          </div>
@@ -2852,7 +2852,7 @@ The ſtory of the painter and the prince is well known: to get at the beſt piec
             <p>James's analeptic pills, Dr. Ruſpini's famous ſtiptic, tooth-powder and liquid, Anderſon's pills, Steer's opo<g ref="char:EOLhyphen"/>deldoc for ſprains, rheumatiſm and bruiſes; cephalic ſnuff for the head-ach, lozenges of toulo for colds, coughs and conſumptions; Hill's balſam of honey, jeſuits drops, Turlington's balſam, Stoughton's bitters, Hemet's pearl and pearl dentifrice for the teeth, eſſence of lemons for taking out iron moulds, court plaiſter, gold beater's ſkins, fever powders, &amp;c. &amp;c.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:022609_0116_0FB9B2075EF1A950"/>
+            <pb facs="unknown:022609_0116_0FB9B2075EF1A950"/>
             <head>The following valuable PRODUCTIONS to be had of <hi>BERRY AND ROGERS, No. 35,</hi> Hanover-Square:</head>
             <list>
                <item>SOAME Jennings on the Origin of Evil, 12mo.</item>
